@@ -77,7 +77,7 @@ This indicates good prediction accuracy for real-world house price prediction pr
 
 ## 📌 Author
 **Abhoy Sinha**  
-BTech – 2nd Year, Energy Engineering
+BTech – 2nd Year,Energy Engineering  
 Interested in Machine Learning, AI & Data Science  
 
 ---
